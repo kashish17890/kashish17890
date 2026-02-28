@@ -9,9 +9,11 @@ Currently, I am focused on strengthening my fundamentals and working on academic
 
 ## 📊 GitHub Stats
 
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashish17890&show_icons=true&hide_title=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish17890&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashish17890&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashish17890&layout=compact&langs_count=6)
 
 ---
 
