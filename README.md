@@ -80,7 +80,7 @@ Data Science
 └── Security Analytics
 ```
 
-
+<!--
 ## `$ ./contribution_snake`
 
 <div align="center">
@@ -92,6 +92,7 @@ Data Science
 </picture>
 
 </div>
+-->
 
 
 
