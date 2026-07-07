@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 ## `$ whoami`
 
@@ -42,6 +42,8 @@ I enjoy understanding how systems work, identifying security weaknesses, and bui
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 💻 Development
 
@@ -78,19 +80,6 @@ Data Science
 └── Security Analytics
 ```
 
----
-
-## `$ git log --stat`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kashish17890&show_icons=true&theme=github_dark&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashish17890&layout=compact&theme=github_dark&hide_border=true&title_color=39FF14&text_color=c9d1d9"/>
-
-</div>
-
----
 
 ## `$ ./contribution_snake`
 
@@ -104,7 +93,7 @@ Data Science
 
 </div>
 
----
+
 
 ## `$ cat currently_learning.txt`
 
@@ -112,16 +101,13 @@ Data Science
 ✓ Linux Administration
 ✓ Network Security
 ✓ Secure Coding
-✓ OWASP Top 10
 ✓ Threat Modeling
-✓ AWS Cloud Fundamentals
 ✓ Data Analysis with Python
 
 Currently Exploring
 → Detection Engineering
 → Threat Hunting
 → Malware Analysis
-→ SIEM
 → Machine Learning for Cybersecurity
 ```
 
