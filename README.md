@@ -24,7 +24,6 @@ I enjoy understanding how systems work, identifying security weaknesses, and bui
 - 🔐 Interested in Linux Security, Secure Software Development, Vulnerability Assessment, and Cloud Security
 - 📊 Exploring Machine Learning and Data Science for threat detection, anomaly detection, and log analysis
 - 🛠️ Building security-focused projects while strengthening my cybersecurity portfolio
-- ☁️ Hands-on experience with **AWS Lambda**, **Amazon S3**, and **Amazon Bedrock** through **HackOn with Amazon 6.0**
 - 🌱 Continuously learning through hands-on projects, CTFs, and open-source contributions
 
 ---
@@ -36,7 +35,6 @@ I enjoy understanding how systems work, identifying security weaknesses, and bui
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 📊 Data Science
@@ -44,15 +42,12 @@ I enjoy understanding how systems work, identifying security weaknesses, and bui
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 💻 Development
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
