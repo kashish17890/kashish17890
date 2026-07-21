@@ -18,7 +18,7 @@ I enjoy understanding how systems work, identifying security weaknesses, and bui
 
 ---
 
-## `$ cat aboutme.md`
+## `$ cat about.md`
 
 - 🎓 Third-year Computer Science student specializing in **Cybersecurity**
 - 🔐 Interested in Linux Security, Secure Software Development, Vulnerability Assessment, and Cloud Security
