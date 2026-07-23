@@ -14,7 +14,7 @@
 
 I'm **Kashish Verma**, a third-year Computer Science student specializing in **Cybersecurity** with a growing interest in **Data Science**.
 
-I enjoy understanding how systems work, identifying security weaknesses, and building practical solutions that are secure by design. My interests include Linux security, vulnerability assessment, cloud technologies, secure software development, and applying data-driven approaches to cybersecurity.
+I enjoy understanding how systems work, identifying security weaknesses, and building practical solutions that are secure by design. My interests include Linux security, vulnerability assessment, cloud technologies, secure software development and applying data-driven approaches to cybersecurity.
 
 ---
 
