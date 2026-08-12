@@ -52,14 +52,6 @@ I enjoy understanding how systems work, identifying security weaknesses, and bui
 
 ---
 
-## `$ ./run featured_projects.sh`
-
-| Project | Description | Stack |
-|----------|-------------|-------|
-| 🛡️ **[Anchor](https://github.com/kashish17890/Anchor)** | Automated Linux hardening scanner and remediation toolkit for auditing Linux systems and identifying security misconfigurations. | Python • Bash • Linux |
-
----
-
 ## `$ tree interests/`
 
 ```text
